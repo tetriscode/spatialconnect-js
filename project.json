@@ -1,0 +1,6 @@
+
+{
+  "install":"npm i",
+  "unit_test":"npm run test",
+  "release":"npm run build"
+}
